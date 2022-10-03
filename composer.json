@@ -1,5 +1,5 @@
 {
-    "name": "laravel-notification-channels/pushover",
+    "name": "mmockelyn/pushover",
     "description": "Pushover notifications for Laravel.",
     "homepage": "https://github.com/laravel-notification-channels/pushover",
     "license": "MIT",
@@ -14,8 +14,8 @@
     "require": {
         "php": ">=7.3",
         "guzzlehttp/guzzle": "^7.0.1",
-        "illuminate/notifications": "^8.0",
-        "illuminate/support": " ^8.0"
+        "illuminate/notifications": "^9.0",
+        "illuminate/support": " ^9.0"
     },
     "require-dev": {
         "mockery/mockery": "^1.3.1",
